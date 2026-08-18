@@ -244,7 +244,55 @@ Create a pull request to merge the changes from the `develop` branch into `main`
 | PART 4 – Mockups and Navigation Flows | 25% |
 | PART 5 – Submission | 5% |
 
-# 10. Academic Integrity
+--- 
+
+## 10. Submission Checklist
+
+### Project Structure
+
+* [ ] Maven project created using `maven-archetype-quickstart`.
+* [ ] Required `groupId` and `artifactId` configured.
+* [ ] Required project structure created.
+* [ ] Maven command and Archetype questions documented in the README.
+* [ ] APA bibliography included.
+
+### Context Diagram
+
+* [ ] Context diagram created using the C4 standard.
+* [ ] Diagram exported and saved in `docs/uml`.
+* [ ] `scope.md` completed using the provided template.
+* [ ] Diagram and system scope included in `scope.md`.
+
+### Requirements
+
+* [ ] At least 5 functional requirements identified.
+* [ ] At least 5 non-functional requirements identified.
+* [ ] Three functional requirements selected and detailed.
+* [ ] UML use case diagram created for each selected requirement.
+* [ ] Use case diagrams exported and saved in `docs/uml`.
+* [ ] Requirements analysis questions answered.
+
+### Mockups and Navigation Flow
+
+* [ ] One functional requirement selected.
+* [ ] Between 3 and 5 screens designed.
+* [ ] Navigation flow defined.
+* [ ] TechCup logo included.
+* [ ] Mockups exported and saved in `docs/images`.
+* [ ] `requirements.md` updated with the mockup link.
+
+### Git Workflow and Submission
+
+* [ ] All required feature branches were created from `develop`.
+* [ ] All required pull requests were created and approved by a different team member.
+* [ ] Changes from all feature branches were merged into `develop`.
+* [ ] Final pull request from `develop` to `main` was created, approved, and merged.
+* [ ] Repository contains all required files and working links.
+* [ ] All team members' contributions are reflected in the Git history.
+
+--- 
+
+## 11. Academic Integrity
 
 All team members must understand and be able to explain the submitted solution. External references, generated code, and AI-assisted content must be reviewed, adapted, tested, and documented according to the instructor's rules.
 
