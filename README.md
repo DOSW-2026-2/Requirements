@@ -97,7 +97,7 @@ With the goal of gaining a better understanding of the different uses of Maven, 
 
    1. When running the command to create the project using the archetype, make sure to define:
        * `groupId`: `edu.eci.dosw.lab`
-       * `artifactId`: `DOSW-Laboratorio4`
+       * `artifactId`: `DOSW-Laboratorio3`
    2. Add the command used to create the project structure to the README.
 
 **Important:** The command should generate a project structure similar to the following:
